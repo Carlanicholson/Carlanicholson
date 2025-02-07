@@ -2,7 +2,7 @@
 
 Self taught web developer, I have now been coding for 3 years and loved every minute! 
 
-Skills
+## Skills
 Vue JS | Tailwindcss | TypeScript (learning)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlanicholson&layout=compact)
